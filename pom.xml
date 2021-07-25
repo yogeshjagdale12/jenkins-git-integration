@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.amitverma</groupId>
   <artifactId>YogeshJagdale</artifactId>
-  //<packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1</version>
   <name>jenkins-git-integration Maven Webapp</name>
   <url>http://maven.apache.org</url>
