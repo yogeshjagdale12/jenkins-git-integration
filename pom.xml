@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.amitverma</groupId>
-  <artifactId>jenkins-git-integration</artifactId>
-  <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>Yogesh-Jagdale</artifactId>
+  //<packaging>war</packaging>
+  <version>0.0.1</version>
   <name>jenkins-git-integration Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>jenkins-git-integration</finalName>
+    <finalName>Yogesh-Jagdale</finalName>
   </build>
 </project>
